@@ -1,0 +1,51 @@
+[
+    {
+        "category name":"rice",
+        "name":"jeera rice",
+        "img":"https://t.ly/H1ANS",
+        "options":
+        [
+            {
+                "half":"130",
+                "full":"220"
+            }
+        ],
+        "description": "made using indian masala and basmatio rice"
+    },
+    {
+        "category name":"starter",
+        "name": "panner tikka",
+        "img":"https://t.ly/GbNdP",
+        "options":[
+            {
+                "half":"100",
+                "full":"190"
+            }
+        ],
+        "description":"made using fresh milk and indian masala"
+    },
+    {
+        "category name":"pizza",
+        "name":"margretta pizza",
+        "img":"https://t.ly/nwbkv",
+        "options":[
+            {
+                "full":"250",
+                "half":"120"
+            }
+        ],
+        "description":"made using freh pizza base, cheese and vegatables and in hygieneic manner"
+    },
+    {
+        "category name":"burger",
+        "name":"special aloo tikii burger",
+        "img":"https://t.ly/u5kpT",
+        "options":[
+            {
+                "small":"50",
+                "large":"100"
+            }
+        ],
+        "description":"made using frehsly prepared aloo tikki and freshlt bolied vegetable in hygienic way"
+    }
+]
